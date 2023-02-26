@@ -1,0 +1,26 @@
+[
+  {
+    "Id": "1",
+    "Loan": "1000000",
+    "AssetValue": "0",
+    "CreditScore": "0"
+  },
+  {
+    "Id": "2",
+    "Loan": "1000000",
+    "AssetValue": "600000",
+    "CreditScore": "0"
+  },
+  {
+    "Id": "3",
+    "Loan": "900000",
+    "AssetValue": "0",
+    "CreditScore": "800"
+  },
+  {
+    "Id": "4",
+    "Loan": "900000",
+    "AssetValue": "900000",
+    "CreditScore": "0"
+  }
+]
